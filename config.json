@@ -1,0 +1,10 @@
+{
+  "policy_base": "Qwen/Qwen3-8B",
+  "policy_base_revision": "b968826d9c46dd6066d109eabc6255188de91218",
+  "seed": 42,
+  "max_new_tokens": 4096,
+  "domain": "machine_learning",
+  "codex_model": null,
+  "research_timeout_seconds": 3600,
+  "resource_timeout_seconds": 900
+}
