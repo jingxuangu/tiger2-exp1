@@ -9,6 +9,11 @@ HTTP server's additional format and length costs are outside this ranking.
 An invalid Top 3 proposal blocks execution and leaves the scores available
 for inspection.
 
+## Results
+
+[Fixing Lazy LLMs](results/fixing-lazy-llms/) includes the eight candidates,
+Terra scores, three research reports, and the Codex session exports.
+
 ## Inputs and environments
 
 The pipeline lives in `TIGER-2.0/tiger2-experiments/tiger2-exp1`. It uses

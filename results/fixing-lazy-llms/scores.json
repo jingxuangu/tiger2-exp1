@@ -1,0 +1,137 @@
+{
+  "model": {
+    "adapter": "chailabideation/qwen3.8-27b-rm-terra-with-literature-2000-combined-no-coherence",
+    "revision": "d515befe7b58ba617793c551b30ad959f723b580",
+    "source": "/home/jingxuangu/.cache/huggingface/hub/models--chailabideation--qwen3.8-27b-rm-terra-with-literature-2000-combined-no-coherence/snapshots/d515befe7b58ba617793c551b30ad959f723b580"
+  },
+  "ranking": [
+    {
+      "id": "idea-01",
+      "rm_score": 3.854084014892578,
+      "details": {
+        "reward": 3.854084014892578,
+        "raw_pipeline_reward": 3.720428943634033,
+        "raw_terra_reward": 4.6875,
+        "factorized_pipeline_reward": 3.720428943634033,
+        "supervisor_ratings": {
+          "faithfulness": 3.3201749324798584,
+          "novelty": 2.9904637336730957,
+          "feasibility": 2.706479787826538,
+          "significance": 3.1145973205566406
+        }
+      }
+    },
+    {
+      "id": "idea-08",
+      "rm_score": 3.76778507232666,
+      "details": {
+        "reward": 3.76778507232666,
+        "raw_pipeline_reward": 3.6454198360443115,
+        "raw_terra_reward": 4.65625,
+        "factorized_pipeline_reward": 3.6454198360443115,
+        "supervisor_ratings": {
+          "faithfulness": 3.337627649307251,
+          "novelty": 2.7098960876464844,
+          "feasibility": 2.7838332653045654,
+          "significance": 3.1253225803375244
+        }
+      }
+    },
+    {
+      "id": "idea-05",
+      "rm_score": 3.70412015914917,
+      "details": {
+        "reward": 3.70412015914917,
+        "raw_pipeline_reward": 3.590083599090576,
+        "raw_terra_reward": 4.59375,
+        "factorized_pipeline_reward": 3.590083599090576,
+        "supervisor_ratings": {
+          "faithfulness": 3.333298444747925,
+          "novelty": 2.793729305267334,
+          "feasibility": 2.685882329940796,
+          "significance": 3.172423839569092
+        }
+      }
+    },
+    {
+      "id": "idea-04",
+      "rm_score": 3.6102070808410645,
+      "details": {
+        "reward": 3.6102070808410645,
+        "raw_pipeline_reward": 3.508455991744995,
+        "raw_terra_reward": 4.59375,
+        "factorized_pipeline_reward": 3.508455991744995,
+        "supervisor_ratings": {
+          "faithfulness": 3.2841765880584717,
+          "novelty": 2.743797779083252,
+          "feasibility": 2.605419635772705,
+          "significance": 3.025430202484131
+        }
+      }
+    },
+    {
+      "id": "idea-03",
+      "rm_score": 3.5920867919921875,
+      "details": {
+        "reward": 3.5920867919921875,
+        "raw_pipeline_reward": 3.492706298828125,
+        "raw_terra_reward": 4.46875,
+        "factorized_pipeline_reward": 3.492706298828125,
+        "supervisor_ratings": {
+          "faithfulness": 3.306847095489502,
+          "novelty": 2.8648743629455566,
+          "feasibility": 2.706479787826538,
+          "significance": 3.217623710632324
+        }
+      }
+    },
+    {
+      "id": "idea-06",
+      "rm_score": 3.5173213481903076,
+      "details": {
+        "reward": 3.5173213481903076,
+        "raw_pipeline_reward": 3.4277215003967285,
+        "raw_terra_reward": 4.46875,
+        "factorized_pipeline_reward": 3.4277215003967285,
+        "supervisor_ratings": {
+          "faithfulness": 3.217623710632324,
+          "novelty": 2.7772107124328613,
+          "feasibility": 2.689326763153076,
+          "significance": 3.1517248153686523
+        }
+      }
+    },
+    {
+      "id": "idea-07",
+      "rm_score": 3.5164406299591064,
+      "details": {
+        "reward": 3.5164406299591064,
+        "raw_pipeline_reward": 3.4269559383392334,
+        "raw_terra_reward": 4.53125,
+        "factorized_pipeline_reward": 3.4269559383392334,
+        "supervisor_ratings": {
+          "faithfulness": 3.246703863143921,
+          "novelty": 2.806852340698242,
+          "feasibility": 2.452946424484253,
+          "significance": 3.0763208866119385
+        }
+      }
+    },
+    {
+      "id": "idea-02",
+      "rm_score": 3.4172651767730713,
+      "details": {
+        "reward": 3.4172651767730713,
+        "raw_pipeline_reward": 3.340754508972168,
+        "raw_terra_reward": 4.375,
+        "factorized_pipeline_reward": 3.340754508972168,
+        "supervisor_ratings": {
+          "faithfulness": 3.3157553672790527,
+          "novelty": 2.9057023525238037,
+          "feasibility": 2.587625741958618,
+          "significance": 3.0539348125457764
+        }
+      }
+    }
+  ]
+}
